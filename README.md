@@ -79,3 +79,6 @@ StatefulWidget adalah widget yang memiliki state yang dapat berubah sewaktu-wakt
 
 
 ---
+Darel Prasetya Fawwaz
+2409116064
+Sistem Informasi B 24
